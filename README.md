@@ -4,4 +4,4 @@
   * [Windows客户端](https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPN_1.02.zip)
 
 - **Android平台:**
-  * [Android客户端]()
+  * [Android客户端](https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/green_1.0e_signed.apk)
