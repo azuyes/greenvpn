@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPNIKEV2Pack.appinstaller" Version="1.0.8.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainBundle Name="5569newbreed.GreenVPN" Version="1.0.8.0" Publisher="CN=257060DA-A5D0-42C8-A159-6CC6B0690E1C" Uri="https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPNIKEV2Pack_1.0.8.0_Test/GreenVPNIKEV2Pack_1.0.8.0_x86.appxbundle" />
+  <Dependencies>
+    <Package Name="Microsoft.VCLibs.120.00.UWPDesktop" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="12.0.25426.0" ProcessorArchitecture="x86" Uri="https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPNIKEV2Pack_1.0.8.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.12.00.Desktop.appx" />
+    <Package Name="Microsoft.VCLibs.120.00.UWPDesktop" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="12.0.25426.0" ProcessorArchitecture="x86" Uri="https://raw.githubusercontent.com/newbreedlimited/greenvpn/master/GreenVPNIKEV2Pack_1.0.8.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.12.00.Desktop.appx" />
+  </Dependencies>
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+</AppInstaller>
